@@ -1,2 +1,7 @@
-# demo-estudio-juridico-martin-asociados
-Demo web para Estudio Jurídico Martín &amp; Asociados — diseñada por eterlab.
+# Estudio Jurídico Martín & Asociados
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
